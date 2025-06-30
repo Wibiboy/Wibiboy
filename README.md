@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Wibi Prasetyo Aji👋
 
 <!--
 **Wibiboy/Wibiboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I study at Yogyakarta Technology University 
+![spider man](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxqdmx5YmNzeWtoaDZobDM0dHB0NG9xbjl4aTJ2b2ZtcGQ4eGZjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif)
