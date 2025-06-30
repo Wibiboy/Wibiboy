@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wibiboy&show_icons=true&theme=radical" alt="Wibi's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WibiUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wibiboy&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
