@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WibiUsername&show_icons=true&theme=radical" alt="Wibi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wibiboy&show_icons=true&theme=radical" alt="Wibi's GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WibiUsername&theme=radical" alt="GitHub Streak" />
 </p>
