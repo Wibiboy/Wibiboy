@@ -63,12 +63,14 @@ Here are some ideas to get you started:
 
 ###
 
-<### 🟡 Pac‑Man Style
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wibiboy/Wibiboy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wibiboy/Wibiboy/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Wibiboy/Wibiboy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wibiboy/Wibiboy/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🐍 Snake Animation
+###
+
 <img src="https://raw.githubusercontent.com/Wibiboy/Wibiboy/output/snake.svg" alt="Snake animation" />
+
+###
